@@ -1,8 +1,11 @@
+import Menu from "./Menu";
+
 function App() {
   return (
-    <div className="App">
-      <h1>Hello</h1>
-    </div>
+    <>
+      <h1>JSON based Accordian</h1>
+      <Menu />
+    </>
   );
 }
 
